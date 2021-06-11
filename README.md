@@ -1,4 +1,4 @@
-# HBF File-sharing-Bot
+# HBF FileStore Bot
 
 
 
@@ -20,7 +20,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HollyBolly-Films/HBF_FileStore)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/HollyBolly-Films/HBF_FileStore
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
