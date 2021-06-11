@@ -1,13 +1,13 @@
 
 {
-  "name": "HBF File Sharing Bot",
+  "name": "HBF FileStore Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/HollyBolly-Films/HBF_FileStore",
   "logo": "https://telegra.ph/file/bf22edbeecf7bce03701b.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -36,7 +36,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.\n\n Created by @hollybolly_Films"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
